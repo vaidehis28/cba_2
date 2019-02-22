@@ -2,5 +2,5 @@
 int main(void)
 {
 int i[2] = {0, 1};
-return i[2];
+return i[1];
 }
