@@ -1,9 +1,6 @@
-#include <stdio.h>
-#include <string.h>
+#include<stdio.h>
 int main(void)
 {
-char s[] = "Hello world";
-s[strlen(s)] = ’!’; Try to append a ! to the string
-printf("%s\n", s);
-return 0;
+int i[2] = {0, 1};
+return i[2];
 }
