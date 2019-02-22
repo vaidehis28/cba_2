@@ -1,2 +1,2 @@
-Language: c
-sudo: False
+language: c
+
